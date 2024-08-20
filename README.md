@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Nurjahon Ergashev, a passionate Frontend Developer at Space Dog. 
+## Hi there! 👋 I'm Nurjahon Ergashev, a passionate staff Frontend Developer at Space Dog. 
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/NurjahonErgashevMe/NurjahonErgashevMe.svg" />
