@@ -1,6 +1,3 @@
-![Banner Image](image/Banner.png)
-
-
 ## Hi there! 👋 I'm Nurjahon Ergashev, a passionate Frontend Developer at Space Dog. 
 
 <p align="center">
@@ -19,8 +16,8 @@
 
 Let's connect and build the future together! 🌟
 
-![Linkedin: NurjahonErgashevMe](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)]
-![Telegram: NurjahonErgashevMe](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Linkedin](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
 ### Top Skills:
