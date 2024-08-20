@@ -20,7 +20,6 @@
 Let's connect and build the future together! 🌟
 
 ![Linkedin: NurjahonErgashevMe](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)]
-![GitHub: NurjahonErgashevMe](https://img.shields.io/badge/NurjahonErgashevMe?label=Follow&style=social)]
 ![Telegram: NurjahonErgashevMe](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
@@ -37,6 +36,3 @@ soon..
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/nurjahon-ergashev-me), [Telegram](https://t.me/NurjahonErgashevMe)**
-
-![Nurjahon's github stats](https://github-readme-stats.vercel.app/api?username=NurjahonErgashevMe&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurjahonErgashevMe&layout=compact&theme=dark&hide_border=true)
