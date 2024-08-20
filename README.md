@@ -4,11 +4,11 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/NurjahonErgashevMe/NurjahonErgashevMe.svg" />
 </p>
 
-🚀 With over 3 years of experience, I have honed my skills in building world-class, branded enterprise software products. My path involves using a variety of technologies to design, develop, and deploy enterprise-class solutions, while also gaining a deep understanding of customer needs and product usage.
+🚀 With over 3 years of experience, I have honed my skills in building interfaces, branded enterprise software products. My path involves using a variety of technologies to design, develop, and deploy enterprise-class solutions, while also gaining a deep understanding of customer needs and product usage.
 
-👨‍🏭 Leading and mentoring teams, I set coding standards and UI best practices. My extensive application development experience ensures that I am always at the forefront of UI innovation.
+👨‍🏭 Leading and mentoring teams, I set coding standards and UI best practices. My application development experience ensures that I am always at the forefront of UI innovation.
 
-🛠️ My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, GraphQL, Webpack, and TypeScript. I thrive in Agile environments, where I've spent more than 3 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
+🛠️ My tech toolkit includes NextJS, React, React Native, Zustand, Redux/RTK Toolkit, GraphQL, Webpack, and TypeScript. I thrive in Agile environments, where I've spent more than 3 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
 
 🔐 Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
 
