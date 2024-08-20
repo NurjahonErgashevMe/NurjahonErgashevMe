@@ -16,8 +16,8 @@
 
 Let's connect and build the future together! 🌟
 
-![Linkedin](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/NurjahonErgashevMe)
 
 
 ### Top Skills:
