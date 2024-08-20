@@ -1,10 +1,10 @@
 ![Banner Image](image/Banner.png)
 
 
-## Hi there! 👋 I'm Ghazi Khan, a passionate Staff Software Engineer at Space Dog. 
+## Hi there! 👋 I'm Nurjahon Ergashev, a passionate Frontend Developer at Space Dog. 
 
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/NurjahonErgashevMe/NurjahonErgashevMe.svg" />
 </p>
 
 🚀 With over 3 years of experience, I have honed my skills in building world-class, branded enterprise software products. My path involves using a variety of technologies to design, develop, and deploy enterprise-class solutions, while also gaining a deep understanding of customer needs and product usage.
@@ -19,8 +19,8 @@
 
 Let's connect and build the future together! 🌟
 
-![Linkedin: NurjahonErgashevMe](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)](https://www.linkedin.com/in/nurjahon-ergashev-me)
-![GitHub: NurjahonErgashevMe](https://img.shields.io/badge/NurjahonErgashevMe?label=Follow&style=social)](https://github.com/NurjahonErgashevMe)
+![Linkedin: NurjahonErgashevMe](https://img.shields.io/badge/-NurjahonErgashevMe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurjahon-ergashev-me)]
+![GitHub: NurjahonErgashevMe](https://img.shields.io/badge/NurjahonErgashevMe?label=Follow&style=social)]
 ![Telegram: NurjahonErgashevMe](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
