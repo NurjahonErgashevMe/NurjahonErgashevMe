@@ -27,8 +27,5 @@ Let's connect and build the future together! 🌟
 soon..
 ---
 
-- 🔭 I’m currently working as **Frontend Develiper @ Space Dog**
-- 🌱 I’m currently learning **Backend**
-- 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/nurjahon-ergashev-me), [Telegram](https://t.me/NurjahonErgashevMe)**
