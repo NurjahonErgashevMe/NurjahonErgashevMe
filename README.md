@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Nurjahon Ergashev, FullStack Developer (Node&React) . 
+## Hi there! 👋 I'm Nurjahon Ergashev, FullStack Developer (JS&Python) . 
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/NurjahonErgashevMe/NurjahonErgashevMe.svg" />
