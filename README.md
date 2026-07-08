@@ -2,7 +2,7 @@
 
 ## 🚀 Building digital experiences with JS & Python
 
-### Just 16 y.o who has been coding for a ¼ of his life
+### Just 17 y.o who has been coding for a ¼ of his life
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/NurjahonErgashevMe/NurjahonErgashevMe.svg" />
